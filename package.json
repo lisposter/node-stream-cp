@@ -4,6 +4,8 @@
   "description": "cp for node.js with stream",
   "main": "index.js",
   "dependencies": {
+    "async": "^0.9.0",
+    "mkdirp": "^0.5.0"
   },
   "devDependencies": {
     "istanbul": "^0.3.2",
@@ -21,7 +23,12 @@
     "url": "https://github.com/lisposter/node-stream-cp/issues"
   },
   "homepage": "https://github.com/lisposter/node-stream-cp",
-  "keywords": ["cp","copy","stream","move"],
+  "keywords": [
+    "cp",
+    "copy",
+    "stream",
+    "move"
+  ],
   "author": "Leigh Zhu",
   "license": "MIT"
 }
