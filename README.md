@@ -33,7 +33,7 @@ __Arguments__
 * `src`: source folder path
 * `dst`: destnation path
 * `map`: the function which is used to map the original file names to new filenames.
-
+* `callback`: if error occured, it will passed to the callback function.
 
 ## License
 
