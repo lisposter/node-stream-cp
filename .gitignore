@@ -37,4 +37,5 @@ node_modules
 #sftp configuration file
 sftp-config.json
 
-_test.js
+testing.js
+test/expected/*
